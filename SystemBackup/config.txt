@@ -1,0 +1,3 @@
+token=KzyUksEJHXAAAAAAAAAAn5SEdpAZ1B-ZhsTWgKTELDZ6R3MhlZukWsyijZwhW5oo
+arquivo=D:\qimob\QIMOB.FDB
+email=wylliansales@hotmail.com
